@@ -12,28 +12,28 @@ En este curso, se enseñarán técnicas y estrategias estadísticas para procesa
 
 ## Contenido
 
-1.Introducción a Python y sus herramientas básicas para análisis estadístico de datos.
+1. Introducción a Python y sus herramientas básicas para análisis estadístico de datos.
 
-    1.Uso de Python en la nube.
+    1. Uso de Python en la nube.
     2. Comando Básico de Unix. 
     3. Introducción a la sintaxis básica de Python. 
     4. Lectura de archivos y bases de datos. 
     5. Herramientas para graficar y analizar datos. 
     
-2.Introducción a la probabilidad
+2. Introducción a la probabilidad
 
     1. Muestreo aleatorio simple, estratificado y sistemático de una población. 
     2. Interpretación de probabilidad, funciones de densidad, funciones de variables aleatorias. Distribuciones exponenciales, gaussianas, normales-logarítmicas, chi-cuadrado($\chi^2$)
     3. Valores esperados, funciones binomiales y multinomiales, distribución de Poisson, distribución uniforme.
     
-3.Introducción a la teoría de errores y su propagación
+3. Introducción a la teoría de errores y su propagación
 
     1. Tipos de errores en mediciones. 
     2. Propagación en sumas, productos, cocientes. 
     3. Media y desviación estándar.  
     4. Como reportar incertidumbres correctamente. 
     
-4.Pruebas estadísticas.
+4. Pruebas estadísticas.
 
     1. Pruebas de Hipótesis 
     2. Niveles de significancia.
