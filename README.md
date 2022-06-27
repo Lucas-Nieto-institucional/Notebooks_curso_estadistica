@@ -2,7 +2,7 @@
 
 # ESTADÍSTICA Y HERRAMIENTAS COMPUTACIONALES PARA ANALISIS DE DATOS
 
-En este curso, se enseñarán técnicas y estrategias estadísticas para procesar la información a un nivel académico y empresarial, resumiendo los resultados de manera concisa, precisa y contundente usando el lenguaje de programación Python.
+En este [curso](https://educacioncontinua.uniandes.edu.co/es/programas/estadistica-y-herramientas-computacionales-para-analisis-de-datos), se enseñarán técnicas y estrategias estadísticas para procesar la información a un nivel académico y empresarial, resumiendo los resultados de manera concisa, precisa y contundente usando el lenguaje de programación Python.
 
 ## Objetivos
 
